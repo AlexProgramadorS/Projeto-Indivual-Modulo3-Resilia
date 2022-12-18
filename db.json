@@ -1,0 +1,122 @@
+{
+  "Artes": [
+    {
+      "nome": "O livro do cinema",
+      "autor": "Vários autores",
+      "editora": "Editora Globo S/A",
+      "preco": 63.90,
+      "id": 1
+    },
+    {
+      "nome": "Seis personagens em busca de um autor",
+      "autor": "Pirandello, Luigi",
+      "editora": "Publibooks Livros e Papeis Ltda. L&PM",
+      "preco": 17.90,
+      "id": 2
+    },
+    {
+      "nome": "A megera domada",
+      "autor": "Shakespeare, William",
+      "editora": "Editora Martin Claret Ltda",
+      "preco": 55.90,
+      "id": 3
+    },
+    {
+      "nome": "A comédia dos erros",
+      "autor": "Shakespeare, William",
+      "editora": "Publibooks Livros e Papeis Ltda. L&PM",
+      "preco": 18.90,
+      "id": 4
+    }
+  ],
+  "ReligiaoeEspirtualidade": [
+    {
+      "nome": "O Deus que destrói sonhos",
+      "autor": "BIBO, RODRIGO",
+      "editora": "THOMAS NELSON BRASIL",
+      "preco": 31.90,
+      "id": 1
+    },
+    {
+      "nome": "Baralho Cigano Tradição, Teoria e Prática",
+      "autor": "Mantovanni, André",
+      "editora": "Editora Pensamento-Cultrix Ltda.",
+      "preco": 95.90,
+      "id": 2
+    },
+    {
+      "nome": "Caminho da sabedoria, caminho da paz",
+      "autor": "Lama, Dalai",
+      "editora": "Publibooks Livros e Papeis Ltda. L&PM",
+      "preco": 23.90,
+      "id": 3
+    },
+    {
+      "nome": "Box O Essencial do Cristianismo",
+      "autor": "Almeida, Marcelo; A. Silva, Mário; Américo, Denise; Webb, Melva",
+      "editora": "Novo Século Editora e Distribuidora Ltda.",
+      "preco": 64.90,
+      "id": 4
+    }
+  ],
+  "Biografia": [
+    {
+      "nome": "Shakespeare",
+      "autor": "Mourthe, Claude",
+      "editora": "Publibooks Livros e Papeis Ltda. L&PM",
+      "preco": 32.90,
+      "id": 1
+    },
+    {
+      "nome": "O livro de Jô - Volume 1 Uma autobiografia desautorizada",
+      "autor": "SOARES, JO | SUZUKI JR., MATINAS",
+      "editora": "COMPANHIA DAS LETRAS",
+      "preco": 70.00,
+      "id": 2
+    },
+    {
+      "nome": "Lula, volume 1",
+      "autor": "Morais, Fernando",
+      "editora": "Editora Schwarcz SA",
+      "preco": 64.0,
+      "id": 3
+    },
+    {
+      "nome": "Freud",
+      "autor": "Major, Rene; Talagrand, Chantal",
+      "editora": "Publibooks Livros e Papeis Ltda. L&PM",
+      "preco": 26.90,
+      "id": 4
+    }
+  ],
+  "Hqs": [
+    {
+      "nome": "Snoopy 2 feliz dia dos namorados!",
+      "autor": "Schulz, Charles M.",
+      "editora": "Publibooks Livros e Papeis Ltda. L&PM",
+      "preco": 15.90,
+      "id": 1
+    },
+    {
+      "nome": "O melhor de Hagar, o horrível vol. 7",
+      "autor": "Browne, Dik",
+      "editora": "Publibooks Livros e Papeis Ltda. L&PM",
+      "preco": 15.90,
+      "id": 2
+    },
+    {
+      "nome": "Charlie Brown e seus amigos",
+      "autor": "Schulz, Charles M.",
+      "editora": "Publibooks Livros e Papeis Ltda. L&PM",
+      "preco": 71.90,
+      "id": 3
+    },
+    {
+      "nome": "Biblioteca Gaiman - Volume 1",
+      "autor": "Gaiman, Neil",
+      "editora": "Editora Intrínseca Ltda.",
+      "preco": 63.90,
+      "id": 4
+    }
+  ]
+}
