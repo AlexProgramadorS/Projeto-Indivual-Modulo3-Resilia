@@ -15,4 +15,6 @@ Projeto individual modulo 3 Resilia - Json-server
   <li>JavaScript</li>
   </ul>
 
-<div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></div>
+<div style="display: inline_block"><br>
+<img align="center" alt="Will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
